@@ -20,11 +20,11 @@
 </p>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jaovitu/" alt="Linkedin" target="_blank">
+    <a target="_blank" href="https://www.linkedin.com/in/jaovitu/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://https://www.linkedin.com/in/jaovitu/"/>
   </a>
 
-  <a href="mailto:jvgomes.dev@gmail.com" alt="Discord">
+  <a target="_blank" href="mailto:jvgomes.dev@gmail.com" alt="Discord">
     <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:jvgomes.dev@gmail.com"/>
   </a>
 </p>
