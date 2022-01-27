@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vscode, PyCharm, Netlify, Git e Github.</strong>
+  💼 Tools: <strong>Vscode, PyCharm, Git e Github.</strong>
 </p>
 
 <p align="left">
