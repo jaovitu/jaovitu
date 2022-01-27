@@ -29,9 +29,8 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <div>
   <img align="left" style="margin-right: 10px; height: 180px" src="https://github-readme-stats.vercel.app/api?username=jaovitu&show_icons=true&locale=en" alt="jaovitu" />
-  <img align="left" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaovitu&show_icons=true&locale=en&layout=compact" alt="jaovitu" />
 </div>
