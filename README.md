@@ -2,7 +2,7 @@
 
 <p align="left"> 
     Hi there, I'm João Vitor 👋<br>
-    I'm a <strong>Front-end development</strong> student. 💻
+    I'm a <strong>Full Stack development</strong> student. 💻
 </p>
 
 <br>
