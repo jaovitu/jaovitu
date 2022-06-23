@@ -12,11 +12,11 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vscode, PyCharm, Git e Github.</strong>
+  🛠️ Tools: <strong>Vscode, PyCharm, Git e Github.</strong>
 </p>
 
 <p align="left">
-  💌 Contact me on: ⤵️
+  📫 Contact me on: ⤵️
 </p>
 
 <p align="left">
