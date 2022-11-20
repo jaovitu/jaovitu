@@ -8,7 +8,7 @@
 <br>
 
 <p align="left">
-  🚀 Main skills: <strong>HTML, CSS, JavaScript, Python, NodeJS.</strong>
+  🚀 Main skills: <strong>JavaScript, TypeScript, NodeJS, Python</strong>
 </p>
 
 <p align="left">
