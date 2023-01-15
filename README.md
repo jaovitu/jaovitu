@@ -28,9 +28,3 @@
     <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:jvgomes.dev@gmail.com"/>
   </a>
 </p>
-
-<br>
-
-<div>
-  <img align="left" style="margin-right: 10px; height: 180px" src="https://github-readme-stats.vercel.app/api?username=jaovitu&show_icons=true&locale=en&theme=dracula" alt="jaovitu" />
-</div>
